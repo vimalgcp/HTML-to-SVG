@@ -19,7 +19,7 @@ Also added two `HTML` (*table1.html* & *table2.html*) sample tables and its resp
 ## How to Run
 Pull the project to your local and run below
 ```
-    npm init
+    npm install
 ```
 It will install all the dependencies.
 
@@ -39,5 +39,6 @@ It will install all the dependencies.
 `out.svg - created` output svg file created in current working directory
 
 ## Sample output
+![output1.png](output1.png)
 
-
+![output2.png](output2.png)
