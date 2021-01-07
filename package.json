@@ -1,0 +1,15 @@
+{
+  "name": "htmltosvg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vimal",
+  "license": "ISC",
+  "dependencies": {
+    "node-poppler": "1.8.0",
+    "puppeteer": "3.3.0"
+  }
+}
